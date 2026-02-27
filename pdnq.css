@@ -22,3 +22,23 @@ iframe {
 head,body {
   height:100%;
 }
+.container{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.header{
+  flex: 15%;
+  background-color: light gray;
+}
+.menu{
+  flex: 5%
+  background-color:
+}
+.content{
+  flex: 70%
+}
+.footer{
+  flex: 10%
+}
+  
