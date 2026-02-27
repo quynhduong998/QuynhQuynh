@@ -29,18 +29,18 @@ head,body {
 }
 .header{
   flex: 15%;
-  background-color: light cyan;
+  background-color: lightcyan;
 }
 .menu{
   flex: 5%;
-  background-color: light gray;
+  background-color: lightgray;
 }
 .content{
   flex: 70%;
-  background-color: light salmon;
+  background-color: lightsalmon;
 }
 .footer{
   flex: 10%;
-  background-color: light gray;
+  background-color: lightgray;
 }
   
