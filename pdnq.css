@@ -25,11 +25,11 @@ head,body {
 }
 .header{
   flex: 15%;
-  background-color: lightcyan;
+  background-color: cherry blossom;
 }
 .menu{
   flex: 5%;
-  background-color: lavender;
+  background-color: powder blue;
   color: white;
   display: flex;
   text-decoration: none;
@@ -38,7 +38,7 @@ head,body {
   padding: 15px 20px;  
 }
 .menu hover{
-  background-color: dark lavender;
+  background-color: baby blue;
   color: white;
 }
 .content{
@@ -53,6 +53,6 @@ head,body {
 }
 .footer{
   flex: 10%;
-  background-color: lavender;
+  background-color: powder blue;
 }
   
