@@ -32,6 +32,7 @@ head,body {
   background-color: lightgray;
   color: white;
   display: flex;
+  text-decoration: none;
 }
 .menu a{
   padding: 15px 20px;  
