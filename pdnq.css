@@ -30,15 +30,19 @@ head,body {
 .menu{
   flex: 5%;
   background-color: lightgray;
+  color: white;
   display: flex;
 }
 .menu a{
-  padding: 15px 20px;
-  
+  padding: 15px 20px;  
+}
+.menu hover{
+  background-color: gray;
+  color: white;
 }
 .content{
   flex: 70%;
-  background-color: lightsalmon;
+  background-color: lightyellow;
 }
 .content iframe {
   flex: 1;
