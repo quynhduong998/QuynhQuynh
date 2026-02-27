@@ -29,7 +29,7 @@ head,body {
 }
 .menu{
   flex: 5%;
-  background-color: lightgray;
+  background-color: lavender;
   color: white;
   display: flex;
   text-decoration: none;
