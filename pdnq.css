@@ -30,6 +30,11 @@ head,body {
 .menu{
   flex: 5%;
   background-color: lightgray;
+  display: flex;
+}
+.menu a{
+  padding: 15px 20px;
+  
 }
 .content{
   flex: 70%;
