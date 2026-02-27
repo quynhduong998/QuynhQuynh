@@ -32,15 +32,15 @@ head,body {
   background-color: lightcyan;
 }
 .menu{
-  flex: 5%
+  flex: 5%;
   background-color: lightgray;
 }
 .content{
-  flex: 70%
+  flex: 70%;
   background-color: lightsalmon;
 }
 .footer{
-  flex: 10%
+  flex: 10%;
   background-color: lightgray;
 }
   
