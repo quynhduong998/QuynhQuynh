@@ -40,8 +40,8 @@ head,body {
   padding: 15px 20px;  
 }
 .menu a:hover{
-  background-color: darl lavender;
-  color: white;
+  background-color: dark lavender;
+  color: gold;
 }
 .content{
   flex: 70%;
