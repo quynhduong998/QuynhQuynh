@@ -25,7 +25,7 @@ head,body {
 .header{
   flex: 15%;
   background-color: lightcyan;
-  background: url("image/unnamed.jpg") center / 100%;
+  background: url("image/IMG_20260306_150034.jpg") center / 100%;
   aspect-ratio: 6 / 1;
 }
 .menu{
