@@ -41,7 +41,7 @@ head,body {
 }
 .menu a:hover{
   background-color: dark lavender;
-  color: gold;
+  color: midnightblue;
 }
 .content{
   flex: 70%;
