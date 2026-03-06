@@ -3,8 +3,7 @@ h1 {
   text-align: center;
 }
 td {
-  text-align: center;
-}
+  text-align: center;}
 .tieude {
   color: red;
   font-size: 15pt;
@@ -40,7 +39,7 @@ head,body {
   padding: 15px 20px;  
 }
 .menu a:hover{
-  background-color: dark lavender;
+  background-color: indigo;
   color: midnightblue;
 }
 .content{
