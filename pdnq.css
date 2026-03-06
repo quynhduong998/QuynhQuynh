@@ -40,7 +40,7 @@ head,body {
 }
 .menu a:hover{
   background-color: indigo;
-  color: midnightblue;
+  color: white;
 }
 .content{
   flex: 70%;
