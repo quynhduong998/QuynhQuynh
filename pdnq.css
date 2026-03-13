@@ -23,7 +23,7 @@ head,body {
   height: 100%;
 }
 .header{
-  flex: 15%;
+  flex: 30%;
   background-color: lightcyan;
   background: url("image/IMG_20260306_150034.jpg") center / 100%;
   aspect-ratio: 6 / 1;
@@ -43,7 +43,7 @@ head,body {
   color: white;
 }
 .content{
-  flex: 70%;
+  flex: 55%;
   background-color: lightyellow;
 }
 .content iframe {
