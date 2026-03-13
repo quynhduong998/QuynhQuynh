@@ -23,7 +23,7 @@ head,body {
   height: 100%;
 }
 .header{
-  flex: 10%;
+  flex: 15%;
   background-color: lightcyan;
   background: url("image/IMG_UPLOAD_20260313_103657.jpg") center / 100%;
   aspect-ratio: 6 / 1;
@@ -43,7 +43,7 @@ head,body {
   color: white;
 }
 .content{
-  flex: 75%;
+  flex: 70%;
   background-color: lightyellow;
 }
 .content iframe {
