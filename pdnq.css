@@ -56,4 +56,8 @@ head,body {
   flex: 10%;
   background-color: dark lavender;
 }
+.titlelist{
+  font-size: 17pt;
+  font-weight: bold;
+}
   
